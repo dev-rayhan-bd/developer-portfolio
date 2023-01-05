@@ -210,3 +210,52 @@ margin-bottom: 30px;
   margin-top: 50px;
 text-align: center;
 }
+/* footer section styles */
+a{
+  text-decoration: none;
+
+}
+.footer{
+  display: flex;
+ gap: 100px;
+ background: #FFF8F3;
+ margin-top: 113px;
+ padding: 130px 230px;
+}
+.cont-details{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.contact-title{
+  font-weight: 700;
+font-size: 35px;
+color: #181818;
+
+}
+.msg-title{
+  font-weight: 700;
+font-size: 35px;
+margin-bottom: 28px;
+}
+.name{
+  width: 461px;
+  height: 64px;
+  background: #FFFFFF;
+border-radius: 5px;
+padding: 18px 30px;
+}
+.email{
+  width: 461px;
+  height: 64px;
+  border-radius: 5px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding: 18px 30px;
+}
+.textarea{
+  width: 461px;
+  height: 180px;
+  margin-bottom: 24px;
+  border-radius: 5px;
+  padding: 18px 30px;
+}
